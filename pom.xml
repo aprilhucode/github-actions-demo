@@ -49,6 +49,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>springboot-docker-demo</finalName>
     </build>
 
 </project>
